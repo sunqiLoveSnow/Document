@@ -18,7 +18,8 @@ boost 安装时有版本要求，brew默认安装的都是最新版本，bitshar
 ### 5.克隆 bitshares 代码 
 	git clone https://github.com/NebulaCybexDEX/bitshares-core.git  -- recursive 
 ### 6.修改 build 脚本
-   在 bitshares-core 根目录下，修改 build.sh 脚本中 boost 目录，保证路径正确 
+在 bitshares-core 根目录下，修改 build.sh 脚本中 boost 目录，保证路径正确 
+![boots](https://github.com/NebulaCybexDEX/Document/blob/master/Programmer/bitshares-macos-1.png)
 
 ##### 注：
 在运行脚本时会提示找不到 OpenSSL，这时你要明确的在 cmake 命令行中把 OpenSSL安装路径写出来
