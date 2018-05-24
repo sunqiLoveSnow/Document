@@ -1,4 +1,6 @@
-### 1. 查询用户 CYB 余额：
+
+
+### 1.查询用户 CYB 余额：
 * api 说明
 
    ** Return balances of the account
@@ -28,7 +30,7 @@
 		} 
 
 
-### 2. 查询市场上的买单 / 卖单：
+### 2.查询市场上的买单 / 卖单：
 * api 说明
 
 	** Return the limit orders, ordered from least price to greatest 
@@ -65,7 +67,7 @@
 		} 
 
 
-### 3. 查询交易记录：
+### 3.查询交易记录：
 * api 说明
 
 	** Return recent transactions in the market
